@@ -11,10 +11,11 @@ body {
 img.amzn
 {
 position:absolute;
-top:0;
-right:37%;
-left:63%;
-width:9%;
+margin-left: auto;
+margin-right:auto;
+padding-left:30em;
+margin-top:-7.5em;
+width:8em;
 }
 
 /* General & 'Reset' Stuff */
