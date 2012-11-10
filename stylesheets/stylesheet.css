@@ -8,6 +8,11 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+img.amzn
+{
+background:url(img_navsprites.gif) 10em 0;
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
