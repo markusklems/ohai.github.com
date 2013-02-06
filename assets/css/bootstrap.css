@@ -714,7 +714,6 @@ a.text-success:hover {
   color: #356635;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -728,15 +727,15 @@ h6 {
   text-rendering: optimizelegibility;
 }
 
-/*h1 {
+h1 {
   margin: 10px 0;
-  font-family: Impact, sans-serif;
+  font-family: "Arial Black", Gadget, sans-serif;
   font-weight: bold;
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-}*/
+}
 
 h1 small,
 h2 small,
@@ -749,9 +748,12 @@ h6 small {
   color: #999999;
 }
 
-h1,
 h2,
 h3 {
+  line-height: 40px;
+}
+
+h1 {
   line-height: 40px;
 }
 
