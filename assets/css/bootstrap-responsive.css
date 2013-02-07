@@ -111,6 +111,11 @@
     width: 400px;
     background-size: 400px 400px;
   }
+  .logo {
+    height: 128px;
+    width: 600px;
+    background-size: 600px 128px;
+  }
   .row {
     margin-left: -30px;
     *zoom: 1;
@@ -466,6 +471,11 @@
     width: 400px;
     background-size: 400px 400px;
   }
+  .logo {
+    height: 107px;
+    width: 500px;
+    background-size: 500px 107px;
+  }
   .row {
     margin-left: -20px;
     *zoom: 1;
@@ -812,6 +822,11 @@
     width: 400px;
     background-size: 400px 400px;
   }
+  .logo {
+    height: 85px;
+    width: 400px;
+    background-size: 400px 85px;
+  }
   body {
     padding-right: 20px;
     padding-left: 20px;
@@ -916,8 +931,14 @@
   .product {
     height: 250px;
     width: 250px;
-    background-size: 100px 100px;
+    background-size: 250px 250px;
     background-image: url(../img/ohai-small.png);
+  }
+  .logo {
+    height: 53px;
+    width: 250px;
+    background-size: 250px 53px;
+    background-image: url(../img/logo-small.png);
   }
   .nav-collapse {
     -webkit-transform: translate3d(0, 0, 0);
@@ -1128,6 +1149,11 @@
     height: 400px;
     width: 400px;
     background-size: 400px 400px;
+  }
+  .logo {
+    height: 128px;
+    width: 600px;
+    background-size: 600px 128px;
   }
   .nav-collapse.collapse {
     height: auto !important;

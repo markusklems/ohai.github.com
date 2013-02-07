@@ -137,6 +137,14 @@ hr.soften {
   background-image: url(../img/ohai-large.png);
 }
 
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat:no-repeat;
+  background-image: url(../img/logo-large.png);
+}
+
 .cat {	
 	background-image: url(../img/background-cat.png);
 	background-repeat:no-repeat;
