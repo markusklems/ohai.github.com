@@ -145,6 +145,20 @@ hr.soften {
   background-image: url(../img/logo-large.png);
 }
 
+.step1 {
+  height: 236px;
+  width: 278px;
+  background-size: 278px 236px;
+  background-image: url(../img/ohai-step1.jpg);
+}
+
+.step2 {
+  height: 236px;
+  width: 278px;
+  background-size: 278px 236px;
+  background-image: url(../img/ohai-step2.jpg);
+}
+
 .cat {	
 	background-image: url(../img/background-cat.png);
 	background-repeat:no-repeat;
