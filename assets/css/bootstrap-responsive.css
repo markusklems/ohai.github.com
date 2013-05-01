@@ -67,9 +67,9 @@
 
 @media (min-width: 768px) and (max-width: 979px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .hidden-desktop {
     display: inherit !important;
@@ -87,9 +87,9 @@
 
 @media (max-width: 767px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .hidden-desktop {
     display: inherit !important;
@@ -107,14 +107,14 @@
 
 @media (min-width: 1200px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .logo {
-    height: 128px;
+    height: 255px;
     width: 600px;
-    background-size: 600px 128px;
+    background-size: 600px 255px;
   }
   .row {
     margin-left: -30px;
@@ -467,14 +467,14 @@
 
 @media (min-width: 768px) and (max-width: 979px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .logo {
-    height: 107px;
+    height: 212px;
     width: 500px;
-    background-size: 500px 107px;
+    background-size: 500px 212px;
   }
   .row {
     margin-left: -20px;
@@ -818,14 +818,14 @@
 
 @media (max-width: 767px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .logo {
-    height: 85px;
+    height: 170px;
     width: 400px;
-    background-size: 400px 85px;
+    background-size: 400px 170px;
   }
   body {
     padding-right: 20px;
@@ -935,9 +935,9 @@
     background-image: url(../img/ohai-small.png);
   }
   .logo {
-    height: 53px;
+    height: 106px;
     width: 250px;
-    background-size: 250px 53px;
+    background-size: 250px 106px;
     background-image: url(../img/logo-small.png);
   }
   .nav-collapse {
@@ -993,9 +993,9 @@
 
 @media (max-width: 979px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   body {
     padding-top: 0;
@@ -1146,14 +1146,14 @@
 
 @media (min-width: 980px) {
   .product {
-    height: 400px;
-    width: 400px;
-    background-size: 400px 400px;
+    height: 350px;
+    width: 350px;
+    background-size: 350px 350px;
   }
   .logo {
-    height: 128px;
+    height: 255px;
     width: 600px;
-    background-size: 600px 128px;
+    background-size: 600px 255px;
   }
   .nav-collapse.collapse {
     height: auto !important;

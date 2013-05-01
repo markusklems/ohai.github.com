@@ -162,7 +162,7 @@ hr.soften {
 .cat {	
 	background-image: url(../img/background-cat.png);
 	background-repeat:no-repeat;
-	background-position:right bottom;
+	background-position:left bottom;
 }
 
 /* Pattern overlay
