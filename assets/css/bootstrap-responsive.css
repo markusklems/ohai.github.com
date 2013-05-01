@@ -817,6 +817,9 @@
 }
 
 @media (max-width: 767px) {
+  .cat {
+    background-size: 0px 0px;	
+  }
   .product {
     height: 350px;
     width: 350px;
