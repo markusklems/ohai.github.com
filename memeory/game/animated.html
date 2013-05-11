@@ -32,6 +32,7 @@
 
 </head>
 <body>
+	<div id="load-screen"></div>
   
   <center><h1>Memeory</h1></center>
   <center><h2>The Animated Gif Memory Game.</h2></center>
@@ -94,6 +95,9 @@
   
   <script>
     $('#tutorial-memorygame').quizyMemoryGame({itemWidth: 156, itemHeight: 156, itemsMargin:40, colCount:4, animType:'flip' , flipAnim:'tb', animSpeed:65, openDelay: 1000, resultIcons:true });
+	$(window).load(function(){
+	    $('#load-screen').delay(1500).fadeOut(function(){$(this).remove()});
+	});
   </script>
 
 </body>
