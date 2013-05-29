@@ -8,17 +8,6 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-#ohai {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    z-index:1;
-    height: 100px;
-    width: 100px;
-    background: url("https://s3-eu-west-1.amazonaws.com/memeory/ohai.png") no-repeat;
-    text-indent:-9999px;
-}
-
 article,
 aside,
 details,
