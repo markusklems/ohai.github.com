@@ -66,16 +66,6 @@
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 100px;
-	    width: 100px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .product {
     height: 350px;
     width: 350px;
@@ -96,16 +86,6 @@
 }
 
 @media (max-width: 767px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 50px;
-	    width: 50px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .cat {
     background-size: 0px 0px;	
   }
@@ -129,16 +109,6 @@
 }
 
 @media (min-width: 1200px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 100px;
-	    width: 100px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .product {
     height: 350px;
     width: 350px;
@@ -499,16 +469,6 @@
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 75px;
-	    width: 75px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .product {
     height: 350px;
     width: 350px;
@@ -860,16 +820,6 @@
 }
 
 @media (max-width: 767px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 50px;
-	    width: 50px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .cat {
     background-size: 0px 0px;	
   }
@@ -981,16 +931,6 @@
 }
 
 @media (max-width: 480px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 40px;
-	    width: 40px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .cat {
     background-size: 0px 0px;	
   }
@@ -1058,16 +998,6 @@
 }
 
 @media (max-width: 979px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 75px;
-	    width: 75px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .product {
     height: 350px;
     width: 350px;
@@ -1221,16 +1151,6 @@
 }
 
 @media (min-width: 980px) {
-	#ohailogo {
-	    position: absolute;
-	    top: 0px;
-	    right: 0px;
-	    z-index:1;
-	    height: 100px;
-	    width: 100px;
-	    background: url('../img/ohai-right-corner.png') no-repeat;
-	    text-indent:-9999px;
-	}
   .product {
     height: 350px;
     width: 350px;

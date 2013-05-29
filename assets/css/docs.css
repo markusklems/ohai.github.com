@@ -10,6 +10,17 @@
 /* Body and structure
 -------------------------------------------------- */
 
+#ohailogo {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index:1;
+    height: 100px;
+    width: 100px;
+    background: url('../img/ohai-right-corner.png') no-repeat;
+    text-indent:-9999px;
+}
+
 body {
   position: relative;
 }
