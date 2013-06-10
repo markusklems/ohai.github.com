@@ -21,6 +21,22 @@
     text-indent:-9999px;
 }
 
+#ohailogodrinks {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index:1;
+    height: 100px;
+    width: 100px;
+    background: url('../img/dronkpp-cat.png') no-repeat;
+    text-indent:-9999px;
+}
+
+#story {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
 body {
   position: relative;
 }
